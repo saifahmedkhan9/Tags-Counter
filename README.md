@@ -2,7 +2,8 @@
 -----------------------
 Script that will give you the information about tags inside any website in Java
 --------------------------------------------------------------------------------
-###Input : URL
+###Input : 
+  * URL
 ###Output :
   * Total Number of tags.
   * Number of unique tags.
